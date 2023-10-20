@@ -1,27 +1,30 @@
 # React + TypeScript + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Projeto da disciplina de Frameworks 01- TADS: IFMS/NA
 
-Currently, two official plugins are available:
+Bem-vindo ao repositório de estudos da disciplina de Frameworks 01 do Instituto Federal de Mato Grosso do Sul (IFMS). Este projeto foi criado para auxiliar os alunos na realização de estudos relacionados à disciplina, fornecendo recursos e materiais relevantes.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Objetivo
 
-## Expanding the ESLint configuration
+O objetivo principal deste repositório é proporcionar um ambiente colaborativo para os alunos compartilharem soluções em códigos para o projeto.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## Contribuição
 
-- Configure the top-level `parserOptions` property like this:
+Sua contribuição é valiosa! Sinta-se à vontade para:
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
+- Compartilhar seus próprios materiais de estudo.
+- Participar de projetos colaborativos.
+- Reportar problemas ou sugerir melhorias.
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+Vamos tornar este repositório um recurso valioso para todos os alunos da disciplina.
+
+## Como Contribuir
+
+1. Faça um fork do repositório.
+2. Clone o fork para o seu ambiente local.
+3. Crie uma branch para a sua contribuição: `git checkout -b sua-feature`.
+4. Faça suas alterações e commit: `git commit -m 'Adiciona nova feature'`.
+5. Push para a branch: `git push origin sua-feature`.
+6. Abra um pull request para revisão.
+
+Divirta-se estudando e colaborando!
